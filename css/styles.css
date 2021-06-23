@@ -30,7 +30,8 @@ h3 {
 }
 
 .intro {
-    color: #40514E;
+    /*color: #40514E;*/
+    color: #11cdd4;
     width: 37%;
     margin: auto;
     text-align: justify;
@@ -139,8 +140,6 @@ a {
 a:hover{
     color:#f09917
 }
-
-
 
 .code-design-description{
     text-align: justify;
